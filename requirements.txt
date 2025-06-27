@@ -1,0 +1,7 @@
+### ✅ 2. `requirements.txt`
+```txt
+pandas
+scikit-learn
+matplotlib
+seaborn
+wordcloud
